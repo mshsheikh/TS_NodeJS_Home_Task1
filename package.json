@@ -1,0 +1,11 @@
+{
+  "name": "ts_nodejs_homework_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login_method.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
