@@ -1,4 +1,3 @@
-/* Q1 */
 /* let email: string = "salman@gmail.com";
 let password: string = "002255";
 
@@ -16,3 +15,4 @@ if (email === "salman@gmail.com" && password.length === 6
 else {
     console.log("Password must be 6 characters long and start with capital letter!");
 }
+/* Q1 */
