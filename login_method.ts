@@ -1,3 +1,5 @@
+/* Q1: */
+
 /* let email: string = "salman@gmail.com";
 let password: string = "002255";
 
